@@ -45,7 +45,7 @@ Chat app mini is a trimmed down fork of original chat application built using Re
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd todoPlanner
+cd Chat-app-mini
 ```
 
 ### 2. Install Dependencies
