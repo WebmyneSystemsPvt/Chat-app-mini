@@ -49,7 +49,7 @@ Chat app mini is a trimmed down fork of original chat application built using Re
 
 ```bash
 git clone <repository-url>
-cd todoPlanner
+cd Chat-app-mini
 ```
 
 ### 2. Install Dependencies
